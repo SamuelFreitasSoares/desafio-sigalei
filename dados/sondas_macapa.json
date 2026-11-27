@@ -1,0 +1,18 @@
+[
+  {
+    "posicao": "antes_do_inicio",
+    "numero_testado": "5221",
+    "data_estimada": "2026-01-25",
+    "url_testada": "https://macapa.ap.gov.br/portal/wp-content/uploads/2026/01/Diario-Oficial-5221-25.01.2026.pdf",
+    "status_http": 404,
+    "observacao": "404 nao prova ausencia pois a capitalizacao da URL varia na fonte."
+  },
+  {
+    "posicao": "depois_do_fim",
+    "numero_testado": "5226",
+    "data_estimada": "2026-01-30",
+    "url_testada": "https://macapa.ap.gov.br/portal/wp-content/uploads/2026/01/Diario-Oficial-5226-30.01.2026.pdf",
+    "status_http": 404,
+    "observacao": "404 nao prova ausencia pois a capitalizacao da URL varia na fonte."
+  }
+]

@@ -1,0 +1,21 @@
+# Ambiente virtual e caches Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PDFs baixados ou locais nao precisam ir para o repositorio
+*.pdf
+dados/.parcial/
+dados/pdfs_comprimidos/
+dados/txt/
+
+# Textos e arquivos auxiliares
+docs/Desafio.md
+docs/SPEC.md
+
+# Arquivos de sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
